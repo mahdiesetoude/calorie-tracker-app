@@ -1,3 +1,4 @@
+
 let totalCalories = 0;
 
 function addFood() {
